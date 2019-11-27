@@ -27,8 +27,10 @@
 简易版proxy，功能如下：
 
 ```
-    Usage: python proxy.py [localhost] [localport] [remotehost] [remoteport] [receive_first]
-    python proxy.py 127.0.0.1 9000 10.12.132.1 9000 False
+    Usage:       python proxy3.py [localhost] [localport] [remotehost] [remoteport] [receive_first]
+    Example:     python proxy3.py 127.0.0.1 9000 10.12.132.1 9000 False
+    Structure:   localhost:localport <==> proxy3.py <==> remotehost:remoteport
+    补充， receive_first可不管。
 ```
 
 结果如下（自行调整命令行窗口大小，或修改`hexdump()`）：
