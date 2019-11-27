@@ -1,7 +1,10 @@
 # Black-Hat-Python
-一些方便的python版渗透工具。 在《Python黑帽子——黑客与渗透测试编程之道》的基础上做了些许改动~~不想用python2~~。
+一些方便的python版渗透工具。 在《Python黑帽子——黑客与渗透测试编程之道》的基础上做了些许改动 ~~不想用python2~~
 
-# nc3.py
+- 支持中文
+- python3
+
+## nc3.py
 
 简易版netcat功能如下：
 ```
