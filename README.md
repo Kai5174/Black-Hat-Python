@@ -3,7 +3,7 @@
 
 # nc3.py
 
-简易版netcat，python3环境，功能如下：
+简易版netcat功能如下：
 ```
    
    python nc3.py -t 192.168.0.1 -p 8989                         :连接远程192.168.0.1:8989端口
@@ -14,3 +14,7 @@
    
    echo ABCDEDF |python nc3.py -t 192.168.0.1 -p 135            :send ABCDEDF to 192.168.0.1:135
 ```
+
+环境配置：
+   - python3
+   - 无需任何第三方包
