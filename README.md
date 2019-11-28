@@ -53,3 +53,7 @@
 环境配置：
    - python3
    - 无需第三方包
+
+## ssh3_client.py
+
+简易版ssh，需要 `paramiko` 插件
