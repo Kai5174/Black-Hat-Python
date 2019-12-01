@@ -4,7 +4,7 @@
 - [Black-Hat-Python](#black-hat-python)
   - [nc3.py](#nc3py)
   - [proxy3.py](#proxy3py)
-  - [ssh3_client.py](#ssh3clientpy)
+  - [ssh-client.py](#ssh-clientpy)
 
 ## nc3.py
 
@@ -56,6 +56,6 @@
    - python3
    - 无需第三方包
 
-## ssh3_client.py
+## ssh-client.py
 
 简易版ssh，需要 `paramiko` 插件
